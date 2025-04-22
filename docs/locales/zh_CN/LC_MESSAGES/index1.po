@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, DataCanvas
+# This file is distributed under the same license as the DingoDB package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DingoDB \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-21 15:01+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/index1.rst:2 610daedd9a284466b9c79095eb28c790
+msgid "Welcome to Lumache's documentation!"
+msgstr ""
+
+#: ../../source/index1.rst:4 c99b2b58a2f94ab3845d839b9a05bc04
+msgid ""
+"**Lumache** (/lu'make/) is a Python library for cooks and food lovers "
+"that creates recipes mixing random ingredients. It pulls data from the "
+"`Open Food Facts database <https://world.openfoodfacts.org/>`_ and offers"
+" a *simple* and *intuitive* API."
+msgstr ""
+
+#: ../../source/index1.rst:9 dc6af252b27b4d2a9c8233f4001cbe22
+msgid ""
+"Check out the :doc:`usage` section for further information, including how"
+" to :ref:`installation` the project."
+msgstr ""
+
+#: ../../source/index1.rst:26 297889d23f2a4cd09a0d2e3e71c7ba45
+msgid "This project is under active development."
+msgstr ""
+
+#: ../../source/index1.rst:30 bde1ff083524408f8defbf6817a24bfa
+msgid "Contents"
+msgstr ""
+
+#: ../../source/index1.rst:35 ../../source/index1.rst:79
+#: 756482a70c5947e1a1e54972a0cef521 7c22010b8f064c8188de2750f32de596
+msgid "Clickable cards"
+msgstr ""
+
+#: ../../source/index1.rst:37 ../../source/index1.rst:100
+#: 3271bfa607714c65bd3fc0eb98a21468 babddf5f39e245d39f02518a7ce3665b
+msgid ""
+"Using the ``link`` and ``link-type`` options, you can turn an entire card"
+" into a clickable link. Try hovering over then clicking on the cards "
+"below:"
+msgstr ""
+
+#: ../../source/index1.rst:49 ../../source/index1.rst:62
+#: ../../source/index1.rst:118 025cea56106b45efb6e5417b664bc0e6
+#: 1ebad654d51c40b0acc700fc387fde8c 4a208bfe2c774d399b44d80978b14923
+msgid "Clickable Card (external)"
+msgstr ""
+
+#: ../../source/index1.rst:54 ../../source/index1.rst:67
+#: ../../source/index1.rst:124 1798d8d9fb3c4889b70d3adcf5a6bcec
+#: 2e8a2e38f4974a15bf447c6a4b5d5dbf 3106ac3cba024cdc9b161e1fd3761c32
+msgid "The entire card can be clicked to navigate to https://example.com."
+msgstr ""
+
+#: ../../source/index1.rst:56 ../../source/index1.rst:69
+#: ../../source/index1.rst:126 ../../source/index1.rst:134
+#: 6fbe7c1c392f44f287d49de2340150a6 a63409ac887d4970b081412a9c21a477
+#: a79989aea1984a1bb27337b0d98b88c9 f8072e3507d040af9e32095a3657959d
+msgid "Clickable Card (internal)"
+msgstr ""
+
+#: ../../source/index1.rst:61 ../../source/index1.rst:74
+#: ../../source/index1.rst:132 ../../source/index1.rst:139
+#: 540b160baa6748e7870d56259e85ab0d e534f542c8d54d0d9db7d8c292543fe2
+#: f23742a90a8c467089c067903937d171 fc27c9a04a72470d9f03e464f81a27c7
+msgid ""
+"The entire card can be clicked to navigate to the ``cards-clickable`` "
+"reference target."
+msgstr ""
+
+#: ../../source/index1.rst:84 122223d5e9fe4f53b1767a28d1abc7ae
+msgid "Title 1"
+msgstr ""
+
+#: ../../source/index1.rst 6f5ef95efcbf4555a0f64c6c299841b2
+msgid "link"
+msgstr ""
+
+#: ../../source/index1.rst:86 56c30788a0ef42cca626716e1cede0e1
+msgid "https://example.com A"
+msgstr ""
+

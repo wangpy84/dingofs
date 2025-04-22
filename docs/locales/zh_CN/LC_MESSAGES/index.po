@@ -1,0 +1,306 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, DataCanvas
+# This file is distributed under the same license as the DingoDB package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DingoDB \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-04-21 18:12+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/index.rst:167
+msgid "The Basics"
+msgstr ""
+
+#: ../../source/index.rst:178 ../../source/index.rst:185
+#: 2ea91265cffd43d7b05e03cc635b02a7
+msgid "User guide"
+msgstr ""
+
+#: ../../source/index.rst:204
+msgid "Community"
+msgstr ""
+
+#: ../../source/index.rst:220
+msgid "Reference"
+msgstr ""
+
+#: ../../source/index.rst:3 ea8282bce420417284836803e2ca5af5
+msgid "Sphinx"
+msgstr ""
+
+#: ../../source/index.rst:6 e35a23aa0aca4f53b8273249bc94ffa6
+msgid "Create intelligent and beautiful documentation with ease"
+msgstr ""
+
+#: ../../source/index.rst:16
+#: 05dbb46a75d6493d8e511f6b99f96ff2
+msgid "Comprehensive access interface"
+msgstr "界面1"
+
+#: ../../source/index.rst:18
+#: a9cd8eaeb16c4c9a8959df9faf5777a1
+msgid "Comprehensive access interfaces，Vector as first-class citizen"
+msgstr "向量第一公民"
+
+#: ../../source/index.rst:20
+#: 3d841186405a419d87409331c7e72a1c
+msgid "Comprehensive access"
+msgstr "界面2"
+
+#: ../../source/index.rst:22
+#: 4eb65028b38f4332bf1d01770e142e8b
+msgid "Comprehensive access interfaces，Vss citizen"
+msgstr "向量第一公民2"
+
+#: ../../source/index.rst:24
+#: 78fc5dea12f94ca5bc5c49fb716ab9b1
+msgid "Comprehensiverface"
+msgstr "全面"
+
+#: ../../source/index.rst:26
+#: 8772c6f64f164d9d817e387cacef06aa
+msgid "Comprehensive access interfaces，Vect-class citizen"
+msgstr "向量第一公民"
+
+#: ../../source/index.rst:33
+#: 4eb1fdf9d87d49a8b6b25a81fbbbb80c
+msgid "Comprehensive terface"
+msgstr "界面5"
+
+#: ../../source/index.rst:35
+#: 132db6be04284c64bfe8030c08345dd9
+msgid "Comprehensive access interfaces，Vector as citizen"
+msgstr "全面4"
+
+#: ../../source/index.rst:37
+#: 0195403ce19b4c668ecfc7a3865f9cb0
+msgid "Cosive access interface"
+msgstr "全面7"
+
+#: ../../source/index.rst:39
+#: a78db5e3218a4b9eae34bc8fb7da3f3b
+msgid "Comprehensive access interfaces，Veirst-class citizen"
+msgstr "向量4"
+
+#: ../../source/index.rst:41
+#: f34e6ab0425c4c4a814abda3611f9f8b
+msgid "Comprehecess interface"
+msgstr "全面33"
+
+#: ../../source/index.rst:43
+#: 3d841186405a419d87409331c7e72a1c
+msgid "Comprehensive access -class citizen"
+msgstr "向量22"
+
+#: ../../source/index.rst:55 b4fd8f67619d4d3e98ca2069912ac492
+msgid "🔗 Powerful Cross-Referencing"
+msgstr "中文中文中文"
+
+#: ../../source/index.rst:58 3edfa41e0c714329babd0bfe2a113578
+msgid ""
+"Create :ref:`cross-references <xref>` within your project, and even "
+"across :ref:`different projects <ext-intersphinx>`. Include references to"
+" sections, figures, tables, citations, glossaries, code objects, and "
+"more."
+msgstr ""
+"中文中文中文"
+
+#: ../../source/index.rst:65 b7ca793724474e57b51644484115991a
+msgid "📚 Versatile Documentation Formats"
+msgstr "中文中文中文测试"
+
+#: ../../source/index.rst:68 94915373736743d2afaf5bf3857cbc72
+msgid ""
+"Generate documentation in the preferred formats of your audience, "
+"including HTML, LaTeX (for PDF), ePub, Texinfo, :ref:`and more "
+"<builders>`."
+msgstr ""
+
+#: ../../source/index.rst:71 0cf22b86065f4a3db842596b2ed973c1
+msgid "🎨 Extensive Theme Support"
+msgstr ""
+
+#: ../../source/index.rst:74 95f015b570864bd5ac69644b98bf525a
+msgid ""
+"Create visually appealing documentation, with a wide choice of :ref"
+":`built-in <builtin-themes>` and :ref:`third-party <third-party-themes>` "
+"HTML themes and the ability to customize or :ref:`create new themes "
+"<extension-html-theme>`."
+msgstr ""
+
+#: ../../source/index.rst:80 fc72415243784232ad03cf501f0a2e03
+msgid "🔌 Fully Extensible"
+msgstr ""
+
+#: ../../source/index.rst:83 d9b3d0f0fa9d468ebf4feec9686c8728
+msgid ""
+"Add custom functionality, via robust :ref:`extension mechanisms "
+"<extending-sphinx>` with numerous :ref:`built-in <builtin-extensions>` "
+"and :ref:`third-party <third-party-extensions>` extensions available for "
+"tasks like creating diagrams, testing code, and more."
+msgstr ""
+
+#: ../../source/index.rst:90 97e3e68240fb4a41975346de857258b2
+msgid "🛠️ Automatic API Documentation"
+msgstr ""
+
+#: ../../source/index.rst:93 a639710ac9eb47a286d93224080423dd
+msgid ""
+"Generate API documentation for Python, C++ and other :ref:`software "
+"domains <usage-domains>`, manually or :ref:`automatically from docstrings"
+" <ext-autodoc>`, ensuring your code documentation stays up-to-date with "
+"minimal effort."
+msgstr ""
+
+#: ../../source/index.rst:99 573863118b434274805a26445a3f3d90
+msgid "🌍 Internationalization (i18n)"
+msgstr ""
+
+#: ../../source/index.rst:102 4268eb2d589d47158b51f19712020c4a
+msgid ""
+"Add documentation :ref:`translations <intl>` multiple languages to reach "
+"a global audience."
+msgstr ""
+
+#: ../../source/index.rst:105 0639a037a0f849e2a52dfc61c7a1875a
+msgid "🌟 Active Community and Support"
+msgstr ""
+
+#: ../../source/index.rst:108 789d3991be4b4cda888904a1e2301c8a
+msgid ""
+"Benefit from an :ref:`active community <support-index>`, with numerous "
+"resources, tutorials, forums, and examples."
+msgstr ""
+
+#: ../../source/index.rst:122 5f4e4c3a58284b5da5f77e6f690d795a
+msgid "As used by:"
+msgstr ""
+
+#: ../../source/index.rst:126 24a5cf9a68f84b1eb6a9acc7aa2a0a42
+msgid "Python Logo"
+msgstr ""
+
+#: ../../source/index.rst:132 30f04e9ed4e44375818767239980bdd1
+msgid "Python"
+msgstr ""
+
+#: ../../source/index.rst:134 6686437fa8634b87b4bba2ca0a704de4
+msgid "Linux Logo"
+msgstr ""
+
+#: ../../source/index.rst:140 671d3543cbc84cbc84008bd5e0d8aeb7
+msgid "Linux Kernel"
+msgstr ""
+
+#: ../../source/index.rst:142 d08b7e1474fc413392bcfa1a4a40fe6d
+msgid "Jupyter Logo"
+msgstr ""
+
+#: ../../source/index.rst:148 8db6f4fec1a64867a2850ca2d792795c
+msgid "Project Jupyter"
+msgstr ""
+
+#: ../../source/index.rst:152 8b0aadceb29b46bd89d838ba0bd8330e
+msgid "See below for how to navigate Sphinx's documentation."
+msgstr ""
+
+#: ../../source/index.rst:156 d3606e31f0ea487da7cc1ea10420cbef
+msgid ""
+"The `Sphinx documentation Table of Contents <contents.html>`_ has a full "
+"list of this site's pages."
+msgstr ""
+
+#: ../../source/index.rst:162 ec3a7994fb644c35bcb80bfe8d7d033f
+msgid "Get started"
+msgstr ""
+
+#: ../../source/index.rst:164 ed0477330e9f4eda9fbde72d331cba8a
+msgid ""
+"These sections cover the basics of getting started with Sphinx, including"
+" creating and building your own documentation from scratch."
+msgstr ""
+
+#: ../../source/index.rst:180 5932e9c5e0594854b27ac5b39c98bd04
+msgid ""
+"These sections cover various topics in using and extending Sphinx for "
+"various use-cases. They are a comprehensive guide to using Sphinx in many"
+" contexts and assume more knowledge of Sphinx. If you are new to Sphinx, "
+"we recommend starting with :ref:`get-started`."
+msgstr ""
+
+#: ../../source/index.rst:195 0160941e49764acd9c4adcb1ed9306ea
+msgid "Community guide"
+msgstr ""
+
+#: ../../source/index.rst:197 4f7511a3c5ee4909b42e6b474174f331
+msgid ""
+"Sphinx is community supported and welcomes contributions from anybody. "
+"The sections below should help you get started joining the Sphinx "
+"community as well as contributing."
+msgstr ""
+
+#: ../../source/index.rst:201 de8c2335e5114f0ebc046d2d522118da
+msgid ""
+"See the :doc:`Sphinx contributors' guide <internals/contributing>` if you"
+" would like to contribute to the project."
+msgstr ""
+
+#: ../../source/index.rst:214 87ea443e2edb4a149b75efc7b9738409
+msgid "Reference guide"
+msgstr ""
+
+#: ../../source/index.rst:216 91774febdc6345c7a72c5f15f270dcd6
+msgid ""
+"Reference documentation is more complete and programmatic in nature, it "
+"is a collection of information that can be quickly referenced. If you "
+"would like usecase-driven documentation, see :ref:`get-started` or :ref"
+":`user-guides`."
+msgstr ""
+
+#~ msgid "📝 Rich Text Formatting"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Author in :ref:`reStructuredText <rst-primer>`"
+#~ " or :ref:`MyST Markdown <markdown>` to "
+#~ "create highly structured technical documents,"
+#~ " including tables, highlighted code blocks,"
+#~ " mathematical notations, and more."
+#~ msgstr ""
+
+#~ msgid "Item 1.1"
+#~ msgstr ""
+
+#~ msgid "Multi-line"
+#~ msgstr ""
+
+#~ msgid "content"
+#~ msgstr ""
+
+#~ msgid "Item 1.2"
+#~ msgstr ""
+
+#~ msgid "Content"
+#~ msgstr ""
+
+#~ msgid "Item 2.1"
+#~ msgstr ""
+
+#~ msgid "Item 2.2"
+#~ msgstr ""
+
+#~ msgid "Item 2.3"
+#~ msgstr ""
+
